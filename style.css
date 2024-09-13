@@ -39,7 +39,7 @@ header{
 
 .logo{
     font-size: 3rem;
-    color: #dceb08;
+    color: #e5ff00;
     font-weight: 800;
     cursor: pointer;
     transition: 0.5s ease;
@@ -117,7 +117,7 @@ section{
 }
 
 span{
-    color: #dfdb09;
+    color: #e5ff00;
 }
 
 .home-content h3{
@@ -138,7 +138,7 @@ span{
     position: relative;
     width: 32vw;
     border-radius: 50%;
-    box-shadow: 0 0 25px solid #d8e705;
+    box-shadow: 0 0 25px solid #eeff00;
     cursor: pointer;
     transition: 0.2s linear;
 }
@@ -155,19 +155,19 @@ span{
     width: 4rem;
     height: 4rem;
     background-color: transparent;
-    border: 0.2rem solid #ffee00;
+    border: 0.2rem solid #fbff00;
     font-size: 2rem;
     border-radius: 50%;
     margin: 3rem 1.5rem 3rem 0;
     transition: 0.3s ease;
-    color: #e5ff00;
+    color: #ffee00;
 }
 
 .social-icons a:hover{
     color: black;
     transform: scale(1.3) translateY(-5px);
-    background-color: #b74b4b;
-    box-shadow: 0  0 25px #b74b4b;
+    background-color: #e5ff00;
+    box-shadow: 0  0 25px #e5ff00;
 }
 
 .btn{
@@ -176,10 +176,10 @@ span{
     background-color: black;
     border-radius: 4rem;
     font-size: 1.6rem;
-    color: #eeea00;
+    color: #fffb00;
     letter-spacing: 0.3rem;
     font-weight: 600;
-    border: 2px solid #d0ff00;
+    border: 2px solid #fffb00;
     transition: 0.3s ease;
     cursor: pointer;
 }
@@ -188,7 +188,7 @@ span{
     transform: scale3d(1.03);
     background-color: #fbff00;
     color: black;
-    box-shadow: 0 0 25px #ffee00;
+    box-shadow: 0 0 25px #ffee01;
 }
 
 .typing-text{
@@ -220,7 +220,7 @@ span{
 
 @keyframes cursor{
     to{
-        border-left: 3px solid #eeff00;
+        border-left: 3px solid #fffb00;
     }
 }
 
